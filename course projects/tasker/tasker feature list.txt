@@ -1,0 +1,18 @@
+header done
+footer done
+hero section done
+list task done
+
+delete task done
+delete all task done
+add a task done
+edit a task done
+
+
+favourite task done
+search task done
+no task found done
+
+
+
+
