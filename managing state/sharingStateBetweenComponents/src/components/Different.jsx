@@ -27,5 +27,3 @@ const Different = () => {
 
 export default Different;
 
-
-// resume from 22 mint 3:10
